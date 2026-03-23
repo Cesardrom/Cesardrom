@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=César%20Domínguez&fontSize=70&animation=fadeIn&fontAlignY=35"  width="100%"/>
-</p>
-
 <h1 align="center"><b>Full Stack & Web Developer</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -56,8 +52,8 @@
 
 ## 📊 GitHub Stats / Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="César's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cesardrom&show_icons=true&theme=tokyonight&count_private=true" alt="César's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesardrom&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
